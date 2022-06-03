@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muxiner&hide=contribs,prs&count_private=true&show_icons=true&theme=vue"/><div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muxiner&count_private=true&show_icons=true&theme=vue"/><div>
